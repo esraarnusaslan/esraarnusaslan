@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esra Arnus Aslan
 - 🌱 I teach to be a Full Stack Java Developer.
-- 💞 Skills I've Learned So Far : Java, OOP, API, Spring Framework, Hibernate, JDBC, SQL, MongoDB, Lambda, Vs Code, SDLC, Design Patterns, Unit Test
+- 💞 Skills I've learned so far : Java, OOP, API, Spring Framework, Hibernate, JDBC, SQL, MongoDB, Lambda, Vs Code, SDLC, Design Patterns, Unit Test
 - 📫 how can you reach me :  esra.arnus@gmail.com.
 
 <!---
