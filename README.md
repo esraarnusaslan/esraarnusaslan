@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently trying to be pro on Backend<br>🌱 I’m currently learning HTML <br>💬 Ask me about backend <br>📫 How to reach me: Email - esra.arnus@gmail.com<br>⚡ Fun fact : Travel
+🔭 I'm currently trying to be pro on Backend<br>🌱 I’m currently learning HTML <br>💬 Ask me about backend <br>📫 How to reach me: Email - esra.arnus@gmail.com<br>
 
 
 ## 🌐 Socials:
