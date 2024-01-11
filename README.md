@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-language-illustration_24908-61529.jpg?w=740&t=st=1704997683~exp=1704998283~hmac=3bf72b602e23dc5997f0d8b9b59dd4da8c7e8e85850b00ac2c62a3c61521a125"  width="400" height="400">
+  <img src="https://img.freepik.com/free-vector/programming-language-illustration_24908-61529.jpg?w=740&t=st=1704997683~exp=1704998283~hmac=3bf72b602e23dc5997f0d8b9b59dd4da8c7e8e85850b00ac2c62a3c61521a125"  width="500" height="500">
 </p>
 
 
