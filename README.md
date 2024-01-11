@@ -1,4 +1,4 @@
-https://www.freepik.com/free-vector/programming-language-illustration_6051733.htm#page=3&query=full%20stack%20developer&position=30&from_view=search&track=ais&uuid=3650683e-e274-42d4-a914-d387c02b90ea
+https://img.freepik.com/free-vector/programming-language-illustration_24908-61529.jpg?w=740&t=st=1704997454~exp=1704998054~hmac=7dadd33294dabfcfa20afdffd1777d939452cedee637e72a200a860c812b8260e274-42d4-a914-d387c02b90ea
 <h1 align="center">Hi 👋, I'm Esra Arnus Aslan</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
