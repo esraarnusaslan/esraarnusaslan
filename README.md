@@ -7,6 +7,7 @@
 <h3 align="center">Full Stack Java Developer</h3>
 
 - 📫 How to reach me **esra.arnus@gmail.com**
+- 📚 I'm currently learning React.js Redux
 
 
 <!-- BLOG-POST-LIST:START -->
